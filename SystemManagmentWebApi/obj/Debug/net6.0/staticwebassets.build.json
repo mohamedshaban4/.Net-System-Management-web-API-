@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "9PCfadPd+XBFfDVON6SB9SnR4GdFKrhF5odYueujpEY=",
+  "Source": "SystemManagmentWebApi",
+  "BasePath": "_content/SystemManagmentWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SystemManagmentWebApi\\wwwroot",
+      "Source": "SystemManagmentWebApi",
+      "ContentRoot": "C:\\Users\\Mohamed\\Desktop\\APIs\\SystemManagementApiProject\\SystemManagmentWebApi\\wwwroot\\",
+      "BasePath": "_content/SystemManagmentWebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

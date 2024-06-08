@@ -1,0 +1,137 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "MediaBrowser.Common/4.8.5": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Emby.Media.Model.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netstandard2.0/Emby.Web.GenericEdit.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netstandard2.0/MediaBrowser.Common.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netstandard2.0/MediaBrowser.Model.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Emby.Media.Model.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netstandard2.0/Emby.Web.GenericEdit.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netstandard2.0/MediaBrowser.Common.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netstandard2.0/MediaBrowser.Model.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MediaBrowser.Common/4.8.5": {
+      "sha512": "fuJk00dysKCoK7LgbimFf5632kvSOW3YuMJpRoUXyQHStBiyUFi17mpjbI6GZdVabpCLnwNTAuZpbaCcOwQmDw==",
+      "type": "package",
+      "path": "mediabrowser.common/4.8.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Emby.Media.Model.dll",
+        "lib/netstandard2.0/Emby.Media.Model.pdb",
+        "lib/netstandard2.0/Emby.Media.Model.xml",
+        "lib/netstandard2.0/Emby.Web.GenericEdit.dll",
+        "lib/netstandard2.0/Emby.Web.GenericEdit.pdb",
+        "lib/netstandard2.0/Emby.Web.GenericEdit.xml",
+        "lib/netstandard2.0/MediaBrowser.Common.dll",
+        "lib/netstandard2.0/MediaBrowser.Common.pdb",
+        "lib/netstandard2.0/MediaBrowser.Common.xml",
+        "lib/netstandard2.0/MediaBrowser.Model.dll",
+        "lib/netstandard2.0/MediaBrowser.Model.pdb",
+        "lib/netstandard2.0/MediaBrowser.Model.xml",
+        "mediabrowser.common.4.8.5.nupkg.sha512",
+        "mediabrowser.common.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "MediaBrowser.Common >= 4.8.5"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Mohamed\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Mohamed\\Desktop\\APIs\\SystemManagementApiProject\\SystemManagement.Core\\SystemManagement.Core.csproj",
+      "projectName": "SystemManagement.Core",
+      "projectPath": "C:\\Users\\Mohamed\\Desktop\\APIs\\SystemManagementApiProject\\SystemManagement.Core\\SystemManagement.Core.csproj",
+      "packagesPath": "C:\\Users\\Mohamed\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mohamed\\Desktop\\APIs\\SystemManagementApiProject\\SystemManagement.Core\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "MediaBrowser.Common": {
+            "target": "Package",
+            "version": "[4.8.5, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

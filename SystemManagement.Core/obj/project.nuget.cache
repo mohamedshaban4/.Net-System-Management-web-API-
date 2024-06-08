@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QRtMXFhP9EnwCS2FoTWAoHakqWPTUosLRkj1LnAPL8SJWVyWJFl9691qSh67bU8Hj3PIWiDTiqnbaqQ+yJsNPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mohamed\\Desktop\\APIs\\SystemManagementApiProject\\SystemManagement.Core\\SystemManagement.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohamed\\.nuget\\packages\\mediabrowser.common\\4.8.5\\mediabrowser.common.4.8.5.nupkg.sha512"
+  ],
+  "logs": []
+}

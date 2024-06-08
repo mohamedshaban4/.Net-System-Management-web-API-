@@ -1,0 +1,15 @@
+C:\Users\Mohamed\Desktop\APIs\SystemManagementApiProject\SystemManagement.Application\bin\Debug\net6.0\SystemManagement.Application.deps.json
+C:\Users\Mohamed\Desktop\APIs\SystemManagementApiProject\SystemManagement.Application\bin\Debug\net6.0\SystemManagement.Application.dll
+C:\Users\Mohamed\Desktop\APIs\SystemManagementApiProject\SystemManagement.Application\bin\Debug\net6.0\SystemManagement.Application.pdb
+C:\Users\Mohamed\Desktop\APIs\SystemManagementApiProject\SystemManagement.Application\bin\Debug\net6.0\SystemManagement.Core.dll
+C:\Users\Mohamed\Desktop\APIs\SystemManagementApiProject\SystemManagement.Application\bin\Debug\net6.0\SystemManagement.Core.pdb
+C:\Users\Mohamed\Desktop\APIs\SystemManagementApiProject\SystemManagement.Application\obj\Debug\net6.0\SystemManagement.Application.csproj.AssemblyReference.cache
+C:\Users\Mohamed\Desktop\APIs\SystemManagementApiProject\SystemManagement.Application\obj\Debug\net6.0\SystemManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed\Desktop\APIs\SystemManagementApiProject\SystemManagement.Application\obj\Debug\net6.0\SystemManagement.Application.AssemblyInfoInputs.cache
+C:\Users\Mohamed\Desktop\APIs\SystemManagementApiProject\SystemManagement.Application\obj\Debug\net6.0\SystemManagement.Application.AssemblyInfo.cs
+C:\Users\Mohamed\Desktop\APIs\SystemManagementApiProject\SystemManagement.Application\obj\Debug\net6.0\SystemManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\Desktop\APIs\SystemManagementApiProject\SystemManagement.Application\obj\Debug\net6.0\SystemMa.93D64FE0.Up2Date
+C:\Users\Mohamed\Desktop\APIs\SystemManagementApiProject\SystemManagement.Application\obj\Debug\net6.0\SystemManagement.Application.dll
+C:\Users\Mohamed\Desktop\APIs\SystemManagementApiProject\SystemManagement.Application\obj\Debug\net6.0\refint\SystemManagement.Application.dll
+C:\Users\Mohamed\Desktop\APIs\SystemManagementApiProject\SystemManagement.Application\obj\Debug\net6.0\SystemManagement.Application.pdb
+C:\Users\Mohamed\Desktop\APIs\SystemManagementApiProject\SystemManagement.Application\obj\Debug\net6.0\ref\SystemManagement.Application.dll

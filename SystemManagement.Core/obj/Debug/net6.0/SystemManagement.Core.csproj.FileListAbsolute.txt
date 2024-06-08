@@ -1,0 +1,12 @@
+C:\Users\Mohamed\Desktop\APIs\SystemManagementApiProject\SystemManagement.Core\bin\Debug\net6.0\SystemManagement.Core.deps.json
+C:\Users\Mohamed\Desktop\APIs\SystemManagementApiProject\SystemManagement.Core\bin\Debug\net6.0\SystemManagement.Core.dll
+C:\Users\Mohamed\Desktop\APIs\SystemManagementApiProject\SystemManagement.Core\bin\Debug\net6.0\SystemManagement.Core.pdb
+C:\Users\Mohamed\Desktop\APIs\SystemManagementApiProject\SystemManagement.Core\obj\Debug\net6.0\SystemManagement.Core.csproj.AssemblyReference.cache
+C:\Users\Mohamed\Desktop\APIs\SystemManagementApiProject\SystemManagement.Core\obj\Debug\net6.0\SystemManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed\Desktop\APIs\SystemManagementApiProject\SystemManagement.Core\obj\Debug\net6.0\SystemManagement.Core.AssemblyInfoInputs.cache
+C:\Users\Mohamed\Desktop\APIs\SystemManagementApiProject\SystemManagement.Core\obj\Debug\net6.0\SystemManagement.Core.AssemblyInfo.cs
+C:\Users\Mohamed\Desktop\APIs\SystemManagementApiProject\SystemManagement.Core\obj\Debug\net6.0\SystemManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\Desktop\APIs\SystemManagementApiProject\SystemManagement.Core\obj\Debug\net6.0\SystemManagement.Core.dll
+C:\Users\Mohamed\Desktop\APIs\SystemManagementApiProject\SystemManagement.Core\obj\Debug\net6.0\refint\SystemManagement.Core.dll
+C:\Users\Mohamed\Desktop\APIs\SystemManagementApiProject\SystemManagement.Core\obj\Debug\net6.0\SystemManagement.Core.pdb
+C:\Users\Mohamed\Desktop\APIs\SystemManagementApiProject\SystemManagement.Core\obj\Debug\net6.0\ref\SystemManagement.Core.dll

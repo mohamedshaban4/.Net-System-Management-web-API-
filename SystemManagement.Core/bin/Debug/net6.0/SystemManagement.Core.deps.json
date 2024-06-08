@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SystemManagement.Core/1.0.0": {
+        "dependencies": {
+          "MediaBrowser.Common": "4.8.5"
+        },
+        "runtime": {
+          "SystemManagement.Core.dll": {}
+        }
+      },
+      "MediaBrowser.Common/4.8.5": {
+        "runtime": {
+          "lib/netstandard2.0/Emby.Media.Model.dll": {
+            "assemblyVersion": "4.8.5.0",
+            "fileVersion": "4.8.5.0"
+          },
+          "lib/netstandard2.0/Emby.Web.GenericEdit.dll": {
+            "assemblyVersion": "4.8.5.0",
+            "fileVersion": "4.8.5.0"
+          },
+          "lib/netstandard2.0/MediaBrowser.Common.dll": {
+            "assemblyVersion": "4.8.5.0",
+            "fileVersion": "4.8.5.0"
+          },
+          "lib/netstandard2.0/MediaBrowser.Model.dll": {
+            "assemblyVersion": "4.8.5.0",
+            "fileVersion": "4.8.5.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SystemManagement.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MediaBrowser.Common/4.8.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fuJk00dysKCoK7LgbimFf5632kvSOW3YuMJpRoUXyQHStBiyUFi17mpjbI6GZdVabpCLnwNTAuZpbaCcOwQmDw==",
+      "path": "mediabrowser.common/4.8.5",
+      "hashPath": "mediabrowser.common.4.8.5.nupkg.sha512"
+    }
+  }
+}
